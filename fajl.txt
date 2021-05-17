@@ -1,0 +1,102 @@
+    1  git status
+    2  11
+    3  git clone ^Mhttps://github.com/TheRealDragan/QAOnlineAugHomewo
+    4  git clone https://github.com/TheRealDragan/QAOnlineAugHomework
+    5  git clone https://github.com/TheRealDragan/QAOnlineAugHomework
+    6  git push 
+    7  git push '/c/Users/marij/Desktop/Domaci - QA/AverageValue.txt'
+    8  gut push '/c/Users/marij/Desktop/Domaci - QA/AverageValue.txt'
+    9  push /c/Users/marij/Desktop/QAOnlineAugHomework/AverageValue.txt
+   10  git push /c/Users/marij/Desktop/QAOnlineAugHomework/AverageValue.txt
+   11  push /c/Users/marij/Desktop/QAOnlineAugHomework/AverageValue.txt
+   12  git push /c/Users/marij/Desktop/QAOnlineAugHomework/AverageValue.txt
+   13  git add
+   14  git add./c/Users/marij/Desktop/QAOnlineAugHomework/AverageValue.txt
+   15  git add .
+   16  git commit -m/c/Users/marij/Desktop/QAOnlineAugHomework/AverageValue.txt
+   17  git add .
+   18  git commit -m "/c/Users/marij/Desktop/QAOnlineAugHomework/AverageValue.txt"
+   19  git push origin domaci-averagevalue-marijana
+   20  git clone https://github.com/TheRealDragan/QAOnlineAugHomework.git
+   21  git add .
+   22  git commit -m "/c/Users/marij/Desktop/QAOnlineAugHomework/AverageValue.txt"
+   23  git push origin domaci-averagevalue-marijana
+   24  git push origin main
+   25  git push origin domaci-averagevalue-marijana
+   26  git push origin main
+   27  pwd 
+   28  ls
+   29  ls-l
+   30  ls -l
+   31  ll
+   32  sd ..
+   33  cd ..
+   34  pwd
+   35  ls -l
+   36  cd Radna površina
+   37  cd Radnapovršina
+   38  cd Desktop
+   39  cd Radna površina
+   40  cd ../..
+   41  pwd
+   42  ls -l
+   43  cd marij
+   44  pwd
+   45  cd Radna povrsina
+   46  cd Radna površina
+   47  pwd
+   48  cd OneDrive
+   49  cd Radna površina
+   50  pwd
+   51  cd 'Radna površina'
+   52  mkdir test123
+   53  cd test123
+   54  touch test.txt
+   55  nano test.txt
+   56  cat test.txt
+   57  ls -l
+   58  ls --help
+   59  ls -lt
+   60  rm test.txt
+   61  history
+   62  history > istorija.txt
+   63  cat istorija.paste
+   64  tail istorija.txt
+   65  tail -n 3  istorija.txt
+   66  head istorija.txt
+   67  head -n 5 istorija.txt
+   68  date
+   69  time
+   70  ls
+   71  cd /
+   72  ls
+   73  help
+   74  times
+   75  clear
+   76  ls
+   77  cd /usr
+   78  ls
+   79  cd /c
+   80  ls
+   81  cd /c/Users/marij/onedrive/Radna Povrsina
+   82  cd /c/Users/marij
+   83  ls
+   84  cd /c/Users/marij/OneDrive
+   85  ls
+   86  $ cd /c/Users/marij/OneDrive
+   87  cd /c/Users/marij/OneDrive
+   88  cd /c/Users/marij/OneDrive/'Radna površina'
+   89  ls
+   90  \\
+   91  /
+   92  //
+   93  apt get steam
+   94  sudo apt get steam
+   95  zypper up
+   96  zypper dup
+   97  clear
+   98  mkdir novi123
+   99  sd novi123
+  100  cd novi123
+  101  touch fajl.txt
+  102  history > fajl.txt
